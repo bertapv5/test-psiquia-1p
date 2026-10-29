@@ -1,6 +1,4 @@
 # test-psiquia-1p
-[test-psquia-1p.html](https://github.com/user-attachments/files/34157347/test-psquia-1p.html)
-<!doctype html>
 <html lang="ca">
 <head>
 <meta charset="utf-8">
